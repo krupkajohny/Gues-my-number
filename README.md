@@ -1,6 +1,6 @@
 # Gues my number 
 
-This project is a part of an online JS course I have been studying. It is focused mainly on practicing DOM manipulation fundamentals.
+This project is a part of an online JS course I studyed. It is focused mainly on practicing DOM manipulation fundamentals.
 
 # Live version: https://krupkajohny.github.io/Gues-my-number/
 
